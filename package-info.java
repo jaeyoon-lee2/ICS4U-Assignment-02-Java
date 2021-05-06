@@ -7,4 +7,5 @@
 * @version 1.0
 * @since   2020-05-09
 */
+/** Package  St. Mother Teresa High School. */
 package ca.mths.assignment.assignment02.java.main;
